@@ -2,7 +2,7 @@
 
 I'm orginally from 🇫🇷 and currently living in 🇯🇵.
 
-With more than 6 years experience in IT Infrastructure, mainly in the digital workplace area as a project manager, 
+With more than 6 years of experience in IT Infrastructure area, focused on the digital workplace, 
 I am a new full-stack developer who just graduated from Le Wagon Tokyo (batch #1188). 😀
 
 I love to bring ideas to life through code and create nice designs. 💫
