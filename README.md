@@ -1,5 +1,11 @@
-Hi! I'm Alexia, a new full-stack developer who just graduated from Le Wagon Tokyo (batch #1188). 😀
+<h1>Welcome to my GitHub page</h1>
+
+Hi! I'm Alexia, orginally from 🇫🇷 and currently living in 🇯🇵
+
+With more than 6 years experience in IT Infrastructure, mainly as a project management, I am a new full-stack developer who just graduated from Le Wagon Tokyo (batch #1188). 😀
 I love to bring ideas to life through code. 💫
+
+🌈 You can have a look at my team's final project just here: https://www.joyjot.online/ 🌈
 
 - 💻 I am currently improving old projects (JoyJot, WalkyWoofs)
 - 🍷 My next project will be an app to manage my dad's wine cave
