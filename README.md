@@ -9,9 +9,9 @@ I love to bring ideas to life through code. 💫
 
 🌈 You can have a look at my team's final project just here: https://www.joyjot.online/ 🌈
 
-<li>
-  <ul>💻 I am currently improving old projects (JoyJot, WalkyWoofs)</ul>
-  <ul>🍷 My next project will be an app to manage my dad's wine cave</ul>
-  <ul>📚 I am starting to learn docker and react</ul>
-  <ul>🌟 My current skills are: Ruby, Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, SQL and more...</ul> 
-</li>
+<ul>
+  <li>💻 I am currently improving old projects (JoyJot, WalkyWoofs)</li>
+  <li>🍷 My next project will be an app to manage my dad's wine cave</li>
+  <li>📚 I am starting to learn docker and react</li>
+  <li>🌟 My current skills are: Ruby, Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, SQL and more...</li> 
+</ul>
