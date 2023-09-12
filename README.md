@@ -1,8 +1,4 @@
-<div align="center">
-  <h1>Hi, I'm Alexia!</h1>
-</div>
-
-<h2>About me</h2>
+<h1>Hi, I'm Alexia!</h1>
 
 I'm orginally from 🇫🇷 and currently living in 🇯🇵.
 
