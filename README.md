@@ -3,7 +3,7 @@
 I'm orginally from 🇫🇷 and currently living in 🇯🇵.
 
 With more than 9 years of experience in the IT Infrastructure area, focused on digital workplace topics, 
-I learnt web development at Le Wagon Tokyo (batch #1188). 😀
+I studied web development at Le Wagon Tokyo (batch #1188). 😀
 
 It's been a while I haven't coded, but I enjoy thinking about new ideas and creating nice designs. 💫
 
